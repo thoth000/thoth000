@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**thoth000/thoth000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+アプリ開発を行う高専生です。Flutter Engineerとして活躍してます。
 
-Here are some ideas to get you started:
+## 歴
+- プログラミング学習　2018/6～
+- 競技プログラミング　2018/11～
+- Flutterを用いたアプリ開発　2019/6～
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 実績
+- アプリ甲子園2020 第4位受賞　**Zikanri**
+(Repository **非公開**)
+- アプリ甲子園2020 全国Top30　**明日の予定**
+([Repository**公開済み**](https://github.com/thoth000/tomorrow_plan))
+
+=> 上記どちらのアプリも**GooglePlayStore**にてリリース済み
+
+([**thoth000**](https://play.google.com/store/search?q=thoth000)で検索すると出てきます。)
+
+- Stamp.IncにてFirebaseを主としたインターン経験アリ
+
+=> Flutter班のプロジェクトリーダーを経験

@@ -5,6 +5,10 @@
 
 👉 詳しくは[**自作ポートフォリオ**](https://thoth000.github.io/)まで
 
+記事も書いてます👇
+- [note](https://note.com/thoth000)
+- [Qiita](https://qiita.com/thoth000)
+
 ## 歴
 - プログラミング学習　2018/6～
 - 競技プログラミング　2018/11～

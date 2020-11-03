@@ -14,10 +14,10 @@
 - アプリ甲子園2020 全国Top30　**明日の予定**
 ([Repository**公開済み**](https://github.com/thoth000/tomorrow_plan))
 
-=> 上記どちらのアプリも**GooglePlayStore**にてリリース済み
+👉 上記どちらのアプリも**GooglePlayStore**にてリリース済み
 
-([**thoth000**](https://play.google.com/store/search?q=thoth000)で検索すると出てきます。)
+👉 ([**thoth000**](https://play.google.com/store/search?q=thoth000)で検索すると出てきます。)
 
 - Stamp.IncにてFirebaseを主としたインターン経験アリ
 
-=> Flutter班のプロジェクトリーダーを経験
+👉 Flutter班のプロジェクトリーダーを経験

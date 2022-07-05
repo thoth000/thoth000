@@ -1,7 +1,24 @@
-### Hi there 👋
+# Hi there
 
-check [<strong>My released Apps</strong>](https://play.google.com/store/apps/developer?id=thoth000) (Google Play Store)
+## Activities✒
+`Competitive programming` `Algorithm` `App development` `Research` `AI`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoth000&count_private=true&theme=radical)
+## History📚
+|Year|Month||
+|---|---|---|
+|2018|4|長岡高専 電子制御工学科 入学|
+|2023|3|同 卒業予定|
+|2023|4|北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース 3年次編入予定|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thoth000&layout=compact&theme=radical)
+## Awards🥇
+- 情報オリンピック2019 敢闘賞
+- パソコン甲子園 2020プログラミング部門 予選成績優秀賞
+- アプリ甲子園2020 全国4位 `Zikanri`
+- アプリ甲子園2020 全国ベスト30 `明日の予定`
+
+## Certifications🎖
+- TOEIC L&R `760`
+- AtCoder Highest `1026`
+
+## Link👉
+- twitter `@thoth000`

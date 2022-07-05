@@ -1,5 +1,3 @@
-# Hi there
-
 ## Activities✒
 `Competitive programming` `Algorithm` `App development` `Research` `AI`
 

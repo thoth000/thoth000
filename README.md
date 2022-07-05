@@ -1,5 +1,8 @@
 # Hi there
 
+## Profile
+`age : 19`
+
 ## Activities✒
 `Competitive programming` `Algorithm` `App development` `Research` `AI`
 

@@ -3,6 +3,9 @@
 ## Activities✒
 `Competitive programming` `Algorithm` `App development` `Research` `AI`
 
+## Programming Languages💻
+`Python` `Dart` `C` `C++`
+
 ## History📚
 |Year|Month||
 |---|---|---|

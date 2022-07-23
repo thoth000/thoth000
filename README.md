@@ -4,7 +4,7 @@
 ## Programming Languages💻
 `Python` `Dart` `C` `C++`
 
-## History📚
+## School🏫
 |Year|Month||
 |---|---|---|
 |2018|4|長岡高専 電子制御工学科 入学|

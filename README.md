@@ -1,5 +1,5 @@
 ## Activities✒
-`Competitive programming` `Algorithm` `App development` `Research` `AI`
+`Competitive programming` `Algorithm` `App development` `Research`
 
 ## Programming Languages💻
 `Python` `Dart` `C` `C++`

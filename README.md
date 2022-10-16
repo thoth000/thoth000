@@ -23,4 +23,6 @@
 - AtCoder Highest `1026`
 
 ## Link👉
-- twitter `@thoth000`
+- Qiita [`thoth000`](https://qiita.com/thoth000)
+- note [`thoth000`](https://note.com/thoth000)
+- twitter [`@thoth000`](https://twitter.com/thoth000)

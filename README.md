@@ -2,7 +2,12 @@
 `Competitive programming` `Algorithm` `App development` `Research`
 
 ## Programming Languages💻
-`Python` `Dart` `C` `C++`
+- using
+
+`Python` `Dart` `C`
+- learning
+
+`C++` `JavaScript`
 
 ## School🏫
 |Year|Month||

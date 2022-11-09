@@ -28,7 +28,7 @@
 - AtCoder Highest `1026`
 
 ## Link👉
-- Google developer [`thoth000`](https://play.google.com/store/apps/developer?id=thoth000&hl=ja)
+- GooglePlay developer [`thoth000`](https://play.google.com/store/apps/developer?id=thoth000&hl=ja)
 - AtCoder [`issan`](https://atcoder.jp/users/issan)
 - Qiita [`thoth000`](https://qiita.com/thoth000)
 - note [`thoth000`](https://note.com/thoth000)

@@ -22,7 +22,7 @@
 - 第32回 高専プログラミングコンテスト 競技部門 決勝進出
 
 ## Certifications🎖
-- TOEIC L&R `760`
+- TOEIC L&R `830`
 - AtCoder Highest `1026`
 
 ## Link👉

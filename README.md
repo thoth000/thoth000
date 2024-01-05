@@ -20,7 +20,7 @@
 - アプリ甲子園2020 全国4位 `Zikanri`
 - アプリ甲子園2020 全国ベスト30 `明日の予定`
 - 第32回 高専プログラミングコンテスト 競技部門 決勝進出
-
+- JPHACKS 2023 Best Hack Day Award
 ## Certifications🎖
 - TOEIC L&R `830`
 - AtCoder Highest `1026`

@@ -1,13 +1,5 @@
 ## Activities✒
-`Algorithm` `App development` `Research`
-
-## Programming Languages💻
-- using
-
-`Python` `Dart` `C`
-- learning
-
-`C++` `JavaScript`
+`Algorithm` `kaggle` `Mobile App` 
 
 ## School🏫
 |Year|Month||
@@ -21,6 +13,7 @@
 - アプリ甲子園2020 全国ベスト30 `明日の予定`
 - 第32回 高専プログラミングコンテスト 競技部門 決勝進出
 - JPHACKS 2023 Best Hack Day Award
+
 ## Certifications🎖
 - TOEIC L&R `830`
 - AtCoder Highest `1026`
@@ -30,4 +23,4 @@
 - AtCoder [`issan`](https://atcoder.jp/users/issan)
 - Qiita [`thoth000`](https://qiita.com/thoth000)
 - note [`thoth000`](https://note.com/thoth000)
-- twitter [`@thoth000`](https://twitter.com/thoth000)
+- X [`@thoth000`](https://twitter.com/thoth000)

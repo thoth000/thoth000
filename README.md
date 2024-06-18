@@ -4,5 +4,5 @@
 情報理工学コース 4年
 
 ## 関連
-- X [`@thoth000`](https://twitter.com/thoth000)
+- X [`@thoth000`](https://x.com/thoth000)
 - AtCoder [`issan`](https://atcoder.jp/users/issan)

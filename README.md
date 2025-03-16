@@ -1,5 +1,7 @@
-## 所属
-北海道大学 工学部 情報エレクトロニクス学科
-情報理工学コース 4年
+# interest
+`Computer Vision` `VLM` `Latent Space`
 
-情報認識学研究室
+# News
+| Date       | Content |
+|------------|------|
+| 2025-03   | Our paper was accepted at [JSAI 2025](https://www.ai-gakkai.or.jp/jsai2025/)! 🎉 |

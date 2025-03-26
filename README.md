@@ -1,5 +1,5 @@
 # interest
-`Computer Vision` `VLM` `Latent Space`
+`Computer Vision` `NLP` `VLM` `Latent Space`
 
 # News
 | Date       | Content |

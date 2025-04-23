@@ -2,7 +2,7 @@
 I'm learning about geometry of a word embedding space.
 
 # Interest
-`Computer Vision` `NLP` `VLM` `Latent Space`
+`Computer Vision` `NLP` `VLM` `Latent Space` `Manifold`
 
 # News
 | Date       | Content |

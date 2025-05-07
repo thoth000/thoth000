@@ -1,5 +1,5 @@
 # Recent
-I'm learning about geometry of a word embedding space.
+I’m interested in how computers represent meaning, especially through hierarchical structures in representation spaces.
 
 # Interest
 `Computer Vision` `NLP` `VLM` `Latent Space` `Manifold`

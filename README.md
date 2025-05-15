@@ -1,8 +1,7 @@
 # Recent
-I’m interested in how computers represent meaning, especially through hierarchical structures in representation spaces.
-
+I’m interested in *Representation Learning*.
 # Interest
-`Computer Vision` `NLP` `VLM` `Latent Space` `Manifold`
+`CV` `NLP` `Latent Space` `Manifold` `XAI`
 
 # News
 | Date       | Content |

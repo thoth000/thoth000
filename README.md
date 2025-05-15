@@ -1,6 +1,6 @@
-# Recent
-I’m interested in *Representation Learning*.
 # Interest
+I’m interested in *Representation Learning*.
+
 `CV` `NLP` `Latent Space` `Manifold` `XAI`
 
 # News
